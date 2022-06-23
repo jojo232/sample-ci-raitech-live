@@ -2,9 +2,6 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description:
   'infrastructure for live coding'
 
-# ---------------
-# Parameters定義
-# ---------------
 Parameters:
   VpcCIDR:
     Description: IP range for VPC
