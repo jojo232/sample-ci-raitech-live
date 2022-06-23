@@ -214,7 +214,7 @@ Resources:
       ImageId: ami-01748a72bed07727c
       InstanceInitiatedShutdownBehavior: stop
       InstanceType: t2.micro
-      KeyName: raisetech-key
+      KeyName: jojotech
       Monitoring: false
       # NetworkInterfaces:
       #   - NetworkInterface
