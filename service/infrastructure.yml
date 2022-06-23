@@ -246,7 +246,3 @@ Resources:
         - Key: Name
           Value: EC2ForLive1a
       Tenancy: default
-      # UserData: String
-      # Volumes:
-      #   - Device: /dev/xvda
-      #     VolumeId: #TBD
