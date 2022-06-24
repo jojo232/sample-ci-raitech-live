@@ -1,0 +1,7 @@
+- hosts: all
+  tasks:
+    - name: installed git
+      become: ture
+      yum:
+        name: git
+        state: present
