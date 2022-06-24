@@ -220,7 +220,7 @@ Resources:
       SourceDestCheck: true
       SubnetId: !Ref PublicSubnetForLive1a
       Tags:
-        - Key: Name
+        - Key: Name 
           Value: EC2ForLive1a
       Tenancy: default
       # UserData: String
